@@ -1,4 +1,4 @@
-package PRACTICAS_ARRAYS;
+package main.PRACTICAS_ARRAYS;
 //Realiza un programa que lea un DNI sin letra y calcula la misma (usad un array para almacenar las letras)
 //con metodo
 import java.util.Scanner;

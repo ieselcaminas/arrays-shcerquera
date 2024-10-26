@@ -1,4 +1,4 @@
-package PRACTICAS_ARRAYS;
+package main.PRACTICAS_ARRAYS;
 // de forma descendete  imprime el contenido del array mediante un bucle for
 public class Exe_2 {
     public static void main(String[] args) {

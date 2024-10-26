@@ -5,11 +5,35 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="583553fa-7d74-40d1-b911-e42849faecfe" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/PRACTICAS_ARRAYS/Exe_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/PRACTICAS_ARRAYS/Exe_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/PRACTICAS_ARRAYS/Duplicados.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/PRACTICAS_ARRAYS/Duplicados.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/PRACTICAS_ARRAYS/EXE_3_MET.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/PRACTICAS_ARRAYS/EXE_3_MET.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/PRACTICAS_ARRAYS/EXE_4_MET.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/PRACTICAS_ARRAYS/EXE_4_MET.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/PRACTICAS_ARRAYS/Exe_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/PRACTICAS_ARRAYS/Exe_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/PRACTICAS_ARRAYS/Exe_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/PRACTICAS_ARRAYS/Exe_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/PRACTICAS_ARRAYS/Exe_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/PRACTICAS_ARRAYS/Exe_4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/PRACTICAS_ARRAYS/Exe_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/PRACTICAS_ARRAYS/Exe_5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/PRACTICAS_ARRAYS/Exe_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/PRACTICAS_ARRAYS/Exe_6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/PRACTICAS_ARRAYS/Exe_7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/PRACTICAS_ARRAYS/Exe_7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/PRACTICAS_ARRAYS/Exe_8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/PRACTICAS_ARRAYS/Exe_8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/PRACTICAS_ARRAYS/Exe_9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/PRACTICAS_ARRAYS/Exe_9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/META-INF/maven/archetype.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/archetype-resources/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/archetype-resources/src/main/java/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/archetype-resources/src/test/java/AppTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testsOriginal/ComunesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/testsOriginal/ComunesTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testsOriginal/DuplicadosTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/testsOriginal/DuplicadosTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testsOriginal/Ejemplo10Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/testsOriginal/Ejemplo10Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testsOriginal/Ejemplo3Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/testsOriginal/Ejemplo3Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testsOriginal/Ejemplo4Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/testsOriginal/Ejemplo4Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testsOriginal/Ejemplo5Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/testsOriginal/Ejemplo5Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testsOriginal/Ejemplo6Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/testsOriginal/Ejemplo6Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testsOriginal/Ejemplo8Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/testsOriginal/Ejemplo8Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testsOriginal/Ejemplo9Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/testsOriginal/Ejemplo9Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testsOriginal/EliminarTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/testsOriginal/EliminarTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testsOriginal/IgualesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/testsOriginal/IgualesTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testsOriginal/MoverCerosTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/testsOriginal/MoverCerosTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testsOriginal/SumaIgualTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/testsOriginal/SumaIgualTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,27 +61,118 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/sarita/projects/school/arrays-shcerquera&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;/home/sarita/projects/school/arrays-shcerquera/tuputamadre/src/Main.java&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.general&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Duplicados.executor": "Run",
+    "Application.EXE_3_MET.executor": "Run",
+    "Application.EXE_4_MET.executor": "Run",
+    "Application.Exe_1.executor": "Run",
+    "Application.Exe_2.executor": "Run",
+    "Application.Exe_3.executor": "Run",
+    "Application.Exe_4.executor": "Run",
+    "Application.Exe_5.executor": "Run",
+    "Application.Exe_6.executor": "Run",
+    "Application.Exe_7.executor": "Run",
+    "Application.Exe_8.executor": "Run",
+    "Application.Exe_9.executor": "Run",
+    "Application.Exe_9_MET.executor": "Run",
+    "Downloaded.Files.Path.Enabled": "false",
+    "JUnit.ComunesTest.executor": "Run",
+    "JUnit.Ejemplo3Test.executor": "Run",
+    "JUnit.Ejemplo9Test.pares.executor": "Run",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/sarita/projects/school/arrays-shcerquera",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "/home/sarita/projects/school/arrays-shcerquera/tuputamadre/src/Main.java",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.general",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src" />
       <recent name="$PROJECT_DIR$" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="main.PRACTICAS_ARRAYS" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.Ejemplo9Test">
+    <configuration name="Exe_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.PRACTICAS_ARRAYS.Exe_2" />
+      <module name="arrays-shcerquera" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.PRACTICAS_ARRAYS.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exe_9_MET" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.PRACTICAS_ARRAYS.Exe_9_MET" />
+      <module name="arrays-shcerquera" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.PRACTICAS_ARRAYS.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ejemplo3Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="arrays-shcerquera" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Ejemplo3Test" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ejemplo9Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="arrays-shcerquera" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Ejemplo9Test" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ejemplo9Test.pares" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="arrays-shcerquera" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Ejemplo9Test" />
+      <option name="METHOD_NAME" value="pares" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Ejemplo9Test" />
+        <item itemvalue="JUnit.Ejemplo9Test.pares" />
+        <item itemvalue="Application.Exe_9_MET" />
+        <item itemvalue="JUnit.Ejemplo3Test" />
+        <item itemvalue="Application.Exe_2" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -79,7 +194,8 @@
       <workItem from="1729940066532" duration="30000" />
       <workItem from="1729940160599" duration="144000" />
       <workItem from="1729940349466" duration="1017000" />
-      <workItem from="1729941375878" duration="767000" />
+      <workItem from="1729941375878" duration="1140000" />
+      <workItem from="1729942601642" duration="3059000" />
     </task>
     <servers />
   </component>

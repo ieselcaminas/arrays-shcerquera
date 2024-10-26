@@ -1,4 +1,4 @@
-package PRACTICAS_ARRAYS;
+package main.PRACTICAS_ARRAYS;
 
 import java.util.Scanner;
 

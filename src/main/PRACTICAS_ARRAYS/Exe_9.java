@@ -1,4 +1,4 @@
-package PRACTICAS_ARRAYS;
+package main.PRACTICAS_ARRAYS;
 //Realiza un programa que calcule cuántos números pares e impares tiene un array.
 
 public class Exe_9 {

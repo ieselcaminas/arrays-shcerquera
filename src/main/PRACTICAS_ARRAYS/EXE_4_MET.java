@@ -1,4 +1,4 @@
-package PRACTICAS_ARRAYS;
+package main.PRACTICAS_ARRAYS;
 //Calcula la media de un array de 10 posiciones.METODO
 
 public class EXE_4_MET {

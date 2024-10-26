@@ -1,4 +1,4 @@
-package PRACTICAS_ARRAYS;
+package main.PRACTICAS_ARRAYS;
 
 public class Exe_6 {
     public static void main(String[] args) {

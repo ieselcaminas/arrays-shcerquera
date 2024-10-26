@@ -1,4 +1,4 @@
-package PRACTICAS_ARRAYS;
+package main.PRACTICAS_ARRAYS;
 //Calcula la media de un array de 10 posiciones
 public class Exe_4 {
     public static void main(String[] args) {

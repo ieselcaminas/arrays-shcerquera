@@ -1,4 +1,5 @@
-package PRACTICAS_ARRAYS;
+package main.PRACTICAS_ARRAYS;
+
 //Realiza un programa que pida diez números e imprima el mayor
 public class Exe_5 {
     public static void main(String[] args) {
