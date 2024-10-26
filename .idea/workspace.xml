@@ -6,34 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="583553fa-7d74-40d1-b911-e42849faecfe" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/PRACTICAS_ARRAYS/Duplicados.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/PRACTICAS_ARRAYS/Duplicados.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/PRACTICAS_ARRAYS/EXE_3_MET.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/PRACTICAS_ARRAYS/EXE_3_MET.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/PRACTICAS_ARRAYS/EXE_4_MET.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/PRACTICAS_ARRAYS/EXE_4_MET.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/PRACTICAS_ARRAYS/Exe_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/PRACTICAS_ARRAYS/Exe_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/PRACTICAS_ARRAYS/Exe_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/PRACTICAS_ARRAYS/Exe_3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/PRACTICAS_ARRAYS/Exe_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/PRACTICAS_ARRAYS/Exe_4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/PRACTICAS_ARRAYS/Exe_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/PRACTICAS_ARRAYS/Exe_5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/PRACTICAS_ARRAYS/Exe_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/PRACTICAS_ARRAYS/Exe_6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/PRACTICAS_ARRAYS/Exe_7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/PRACTICAS_ARRAYS/Exe_7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/PRACTICAS_ARRAYS/Exe_8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/PRACTICAS_ARRAYS/Exe_8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/PRACTICAS_ARRAYS/Exe_9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/PRACTICAS_ARRAYS/Exe_9.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/META-INF/maven/archetype.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/archetype-resources/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/archetype-resources/src/main/java/App.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/archetype-resources/src/test/java/AppTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/testsOriginal/ComunesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/testsOriginal/ComunesTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testsOriginal/DuplicadosTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/testsOriginal/DuplicadosTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testsOriginal/Ejemplo10Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/testsOriginal/Ejemplo10Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testsOriginal/Ejemplo3Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/testsOriginal/Ejemplo3Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testsOriginal/Ejemplo4Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/testsOriginal/Ejemplo4Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testsOriginal/Ejemplo5Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/testsOriginal/Ejemplo5Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testsOriginal/Ejemplo6Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/testsOriginal/Ejemplo6Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testsOriginal/Ejemplo8Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/testsOriginal/Ejemplo8Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testsOriginal/Ejemplo9Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/testsOriginal/Ejemplo9Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testsOriginal/EliminarTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/testsOriginal/EliminarTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testsOriginal/IgualesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/testsOriginal/IgualesTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testsOriginal/MoverCerosTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/testsOriginal/MoverCerosTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testsOriginal/SumaIgualTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/testsOriginal/SumaIgualTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,6 +51,7 @@
     "Downloaded.Files.Path.Enabled": "false",
     "JUnit.ComunesTest.executor": "Run",
     "JUnit.Ejemplo3Test.executor": "Run",
+    "JUnit.Ejemplo9Test.executor": "Run",
     "JUnit.Ejemplo9Test.pares.executor": "Run",
     "Repository.Attach.Annotations": "false",
     "Repository.Attach.JavaDocs": "false",
@@ -195,7 +168,7 @@
       <workItem from="1729940160599" duration="144000" />
       <workItem from="1729940349466" duration="1017000" />
       <workItem from="1729941375878" duration="1140000" />
-      <workItem from="1729942601642" duration="3059000" />
+      <workItem from="1729942601642" duration="3319000" />
     </task>
     <servers />
   </component>
