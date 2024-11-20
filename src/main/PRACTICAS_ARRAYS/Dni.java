@@ -1,9 +1,9 @@
-package main.PRACTICAS_ARRAYS;
+package PRACTICAS_ARRAYS;
 //Realiza un programa que lea un DNI sin letra y calcula la misma (usad un array para almacenar las letras)
 //con metodo
 import java.util.Scanner;
 
-public class EXE_3_MET {
+public class Dni {
     public static char  letraDNI(int dni){
         char[] letrasDNI = {'T','R','W','A','G','M','Y','F','P','D','X','B','N','J','Z','S','Q','V','H','L','C','K','E'};
         // calcualr resto

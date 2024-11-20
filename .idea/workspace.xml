@@ -5,7 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="583553fa-7d74-40d1-b911-e42849faecfe" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/PRACTICAS_ARRAYS/Duplicados.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/PRACTICAS_ARRAYS/Duplicados.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/PRACTICAS_ARRAYS/EXE_3_MET.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/PRACTICAS_ARRAYS/Dni.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/PRACTICAS_ARRAYS/Exe_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/PRACTICAS_ARRAYS/Imprimir_Array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/PRACTICAS_ARRAYS/Exe_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/PRACTICAS_ARRAYS/Exe_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/PRACTICAS_ARRAYS/Exe_3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/PRACTICAS_ARRAYS/Exe_4.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +30,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "shcerquera"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "git@github.com:ieselcaminas/arrays-shcerquera.git",
+    "accountId": "5526bb2d-a792-4693-8a0e-dacb1894a046"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -59,7 +79,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/home/sarita/projects/school/arrays-shcerquera",
+    "last_opened_file_path": "/home/sarcerera/projects/arrays-shcerquera",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -137,6 +157,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="arrays-shcerquera" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="arrays-shcerquera" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.Ejemplo9Test" />
@@ -146,14 +179,6 @@
         <item itemvalue="Application.Exe_2" />
       </list>
     </recent_temporary>
-  </component>
-  <component name="SharedIndexes">
-    <attachedChunks>
-      <set>
-        <option value="bundled-jdk-9823dce3aa75-b114ca120d71-intellij.indexing.shared.core-IU-242.21829.142" />
-        <option value="bundled-js-predefined-d6986cc7102b-7c0b70fcd90d-JavaScript-IU-242.21829.142" />
-      </set>
-    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">

@@ -2,7 +2,7 @@ package main.PRACTICAS_ARRAYS;
 
 import java.util.Scanner;
 
-public class Exe_7 {
+public class Marco_con_Cadenas {
     public static int calcularMAximo(String[]cadenas) {
         int maxima = cadenas[0].length();
         for (int i = 0; i < cadenas.length; i++) {
@@ -35,7 +35,7 @@ public class Exe_7 {
         }
         System.out.println();
     }
-    // imprimir astriscos
+    // imprimir astriscos pendiente
 
 }
 

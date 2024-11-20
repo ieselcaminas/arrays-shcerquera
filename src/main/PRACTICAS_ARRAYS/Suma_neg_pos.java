@@ -1,10 +1,10 @@
-package main.PRACTICAS_ARRAYS;
+package PRACTICAS_ARRAYS;
 
 import java.util.Scanner;
 
 //Crea un programa que pida 10 números enteros por teclado, los almacene en un array y
 // luego muestre por separado la suma de todos los valores positivos y negativos.
-public class Exe_8 {
+public class Suma_neg_pos {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int[] numeros = new int[10];
@@ -23,7 +23,7 @@ public class Exe_8 {
 
             }
 
-        }
+        }//falta metodo
 
     }
 }

@@ -1,6 +1,6 @@
-package main.PRACTICAS_ARRAYS;
+package PRACTICAS_ARRAYS;
 
-public class Exe_6 {
+public class Minimo {
     public static void main(String[] args) {
         int[] numeros = {5,8,7,4,6,92,203,17,12};
 
@@ -14,4 +14,4 @@ public class Exe_6 {
         }
         System.out.println("El núimero menor es: " + menor);
     }
-}
+}//falta metodo
