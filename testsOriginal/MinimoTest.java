@@ -1,9 +1,4 @@
-import org.junit.jupiter.api.DisplayName;
-import org.junit.jupiter.api.Test;
-
-import static org.junit.jupiter.api.Assertions.*;
-
-class Ejemplo6Test {
+class MinimoTest {
 
 //    @Test
 //    @DisplayName("El mínimo es el último elemento")

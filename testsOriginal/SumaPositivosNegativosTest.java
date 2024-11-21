@@ -1,8 +1,6 @@
 import org.junit.jupiter.api.Test;
 
-import static org.junit.jupiter.api.Assertions.*;
-
-class Ejemplo8Test {
+class SumaPositivosNegativosTest {
 
     @Test
     void sumaPositivos() {

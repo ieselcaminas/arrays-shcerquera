@@ -1,4 +1,4 @@
-package PRACTICAS_ARRAYS;
+package main.PRACTICAS_ARRAYS;
 // de forma descendete  imprime el contenido del array mediante un bucle for
 public class Orden_Inverso {
     public static void main(String[] args) {
