@@ -1,10 +1,10 @@
-package main.PRACTICAS_ARRAYS;
-// de forma descendete  imprime el contenido del array mediante un bucle for
-public class Exe_2 {
+package PRACTICAS_ARRAYS;
+// De forma ascendente imprime el contenido del array mediante un bucle for,
+public class Imprimir_Array {
     public static void main(String[] args) {
         int[] anArray;
 
-        anArray = new int[10];
+        anArray = new  int[10];
 
         anArray[0] = 100;
         anArray[1] = 200;
@@ -17,10 +17,13 @@ public class Exe_2 {
         anArray[8] = 900;
         anArray[9] = 1000;
 
-        for (int i = anArray.length - 1;i >=0 ; i--) {
+        for (int i = 0; i < anArray.length ; i++) {
 
             System.out.println(anArray[i]);
+
         }
 
-    }
+    }// falta metodo
+
 }
+

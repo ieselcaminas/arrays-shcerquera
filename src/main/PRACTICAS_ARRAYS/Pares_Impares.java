@@ -1,7 +1,7 @@
-package main.PRACTICAS_ARRAYS;
+package PRACTICAS_ARRAYS;
 //Realiza un programa que calcule cuántos números pares e impares tiene un array.
 
-public class Exe_9_MET {
+public class Pares_Impares {
     public static int pares(int... args) {
         int resultado = 0;
 

@@ -1,7 +1,7 @@
-package main.PRACTICAS_ARRAYS;
+package PRACTICAS_ARRAYS;
 //Calcula la media de un array de 10 posiciones.METODO
 
-public class EXE_4_MET {
+public class Medidia_de_un_Array {
     public static double media(int[] numeros){
         int suma = 0;
         double media;
