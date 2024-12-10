@@ -1,4 +1,4 @@
-package main.PRACTICAS_ARRAYS;
+package PRACTICAS_ARRAYS;
 
 public class Minimo {
     public static void main(String[] args) {
